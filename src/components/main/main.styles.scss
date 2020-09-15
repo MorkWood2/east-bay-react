@@ -1,0 +1,49 @@
+.header-top {
+  background-image: url('../../assets/doodle.svg');
+  image-rendering: -webkit-optimize-contrast;
+  background-position: center;
+  background-repeat: repeat;
+  background-size: 100%;
+  border-bottom: solid #68a1ea 30px;
+  height: 205px;
+}
+.logo-wrapper {
+  display: flex;
+  justify-content: center;
+  .logo {
+    position: absolute;
+    top: 0;
+    // left: 37%;
+    padding-top: 30px;
+  }
+}
+
+// .container {
+//   background-image: url('../assets/doodle.svg');
+//   image-rendering: -webkit-optimize-contrast;
+//   background-position: center;
+//   background-repeat: repeat;
+//   background-size: contain;
+//   height: 500px;
+//   //   position: relative;
+// }
+
+// .inner {
+//   border-top: solid #68a1ea 30px;
+//   border: 1px green solid;
+//   height: 500px;
+//   margin: 300px 0 0 0;
+//   display: flex;
+//   justify-content: center;
+//   background: #ffffff;
+
+//   .logo-wrapper {
+//     position: relative;
+//     border: 1px pink solid;
+
+//     .logo {
+//       position: absolute;
+//       top: 0;
+//     }
+//   }
+// }

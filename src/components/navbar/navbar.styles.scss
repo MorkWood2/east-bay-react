@@ -1,0 +1,24 @@
+@font-face {
+  font-family: LeHavreRough;
+  src: url('../../assets/font/insigne\ -\ LeHavreRough-Primary.otf');
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  font-family: LeHavreRough;
+  margin: 0 7%;
+}
+.item {
+  padding: 15px 0 0 0;
+  font-size: 60px;
+  color: #4d4d4d;
+  text-decoration: none;
+}
+.item-1 {
+  transform: rotate(2deg);
+  color: #ff6e6e;
+}
+.item-1 {
+  transform: rotate(-1deg);
+}
