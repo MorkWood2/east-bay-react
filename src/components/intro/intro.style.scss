@@ -19,7 +19,7 @@ a {
   p {
     font-family: 'Rubik', sans-serif;
     font-size: 30px;
-    padding: 0 20% 0 20%;
+    padding: 0 20%;
     line-height: 55px;
   }
   .discord-a-tag {
@@ -52,8 +52,8 @@ a {
   }
 }
 .text-container-top {
-  margin-top: -260px;
-  padding: 170px 0 10px 0;
+  margin-top: -415px;
+  padding: 230px 0 10px 0;
   position: relative;
   background: #324376;
   z-index: -1;
@@ -70,13 +70,14 @@ a {
   background: #324376;
   text-align: center;
   padding: 10px 0;
+  margin-bottom: -5px;
 
   p {
     line-height: 60px;
     text-align: justify;
     position: relative;
     color: #e9efff;
-    padding: 0 20% 0 20%;
+    padding: 0 20%;
     font-family: 'Rubik', sans-serif;
     font-size: 30px;
   }
@@ -240,5 +241,46 @@ a {
   }
   100% {
     color: #ff0080;
+  }
+}
+
+@media screen and (max-width: 1300px) {
+  .divider {
+    background-position: 0% 20%;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .intro-container {
+    p {
+      padding: 0 10% 0 10%;
+    }
+  }
+
+  .text-container {
+    p {
+      padding: 0 10%;
+      font-size: 25px;
+      line-height: 45px;
+      text-align: center;
+    }
+  }
+}
+@media screen and (max-width: 880px) {
+  .text-container {
+    padding-bottom: 115px;
+    margin-bottom: -130px;
+  }
+}
+@media screen and (max-width: 400px) {
+  .intro-container {
+    p {
+      padding: 0 5%;
+    }
+  }
+
+  .text-container {
+    p {
+      padding: 0 5% 0 5%;
+    }
   }
 }

@@ -50,27 +50,32 @@ const Intro = () => {
           >
             Hacktoberfest
           </a>{' '}
-          around the corner let’s end the year right by building some meaningful
-          projects during the month of October.{' '}
+          around the corner, end the year right by contributing to open source!.{' '}
           <span role='img' aria-label='ghost'>
             👻
           </span>{' '}
-          <br /> The goal is to create something that is a positive contribution
-          to the world.
-          <br />
-          Whether it is a tool for providing people information or some other
-          useful purpose it should promote the opportunity for anyone looking to
-          advance their problem-solving and design skills in a collaborative
-          environment. Not to mention it can certainly give your resume a boost.{' '}
+          Open source promotes the opportunity for anyone looking to advance
+          their problem-solving and design skills in a collaborative
+          environment. Not to mention it can give your resume a boost.{' '}
           <span role='img' aria-label='rocket'>
             🚀
           </span>{' '}
-          First-time contributors welcome, skilled programmers encouraged.
-          Please join us in the spirit of Hacktoberfest and contribute to open
-          source!{' '}
+          Please join us in the spirit of Hacktoberfest to better the world by
+          contributing to meaningful projects. First-time contributors welcome,
+          skilled programmers encouraged.{' '}
+          <a
+            className='hacktoberfest'
+            href='https://github.com/topics/hacktoberfest'
+          >
+            Here
+          </a>{' '}
+          is a list of Hacktoberfest projects on Github. Please checkout{' '}
+          <a className='hacktoberfest' href='https://openoakland.org/'>
+            OpenOakland
+          </a>
+          , a local open-source non-profit with some awesome projects that
+          revolve around public topics and issues.{' '}
         </p>
-
-        <p>Project ideas and discussion can be found in our discord.</p>
       </div>
     </div>
   );

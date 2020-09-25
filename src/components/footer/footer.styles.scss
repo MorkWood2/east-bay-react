@@ -6,4 +6,12 @@
   height: 200px;
   position: relative;
   z-index: 2;
+  // background: #324376;
+}
+
+@media screen and (max-width: 940px) {
+  .footer-container {
+    background-position: bottom;
+    // margin-top: 100px;
+  }
 }
