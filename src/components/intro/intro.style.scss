@@ -99,8 +99,6 @@ a {
   background-position: 0% -1%;
   background-size: 100%;
   z-index: 2;
-
-  // width: 100%;
 }
 
 @-webkit-keyframes rainbow {
@@ -244,6 +242,12 @@ a {
   }
 }
 
+@media screen and (max-width: 1600px) {
+  .divider {
+    height: 666px;
+  }
+}
+
 @media screen and (max-width: 1300px) {
   .divider {
     background-position: 0% 20%;
@@ -273,6 +277,9 @@ a {
 }
 @media screen and (max-width: 400px) {
   .intro-container {
+    h1 {
+      font-size: 50px;
+    }
     p {
       padding: 0 5%;
     }

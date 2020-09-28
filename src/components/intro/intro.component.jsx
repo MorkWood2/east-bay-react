@@ -10,7 +10,7 @@ const Intro = () => {
           East Bay React is an online{' '}
           <a
             className='discord-a-tag'
-            href='https://discord.com/channels/753501117085909034/753501117085909036'
+            href='https://www.meetup.com/east-bay-react/'
           >
             group
           </a>{' '}
@@ -50,10 +50,11 @@ const Intro = () => {
           >
             Hacktoberfest
           </a>{' '}
-          around the corner, end the year right by contributing to open source!.{' '}
+          around the corner, end the year right by contributing to open source!{' '}
           <span role='img' aria-label='ghost'>
             👻
           </span>{' '}
+          <br />
           Open source promotes the opportunity for anyone looking to advance
           their problem-solving and design skills in a collaborative
           environment. Not to mention it can give your resume a boost.{' '}
