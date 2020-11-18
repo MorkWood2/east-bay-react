@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b0d30001.chunk.css",
+    "main.js": "/static/js/main.6f7219b5.chunk.js",
+    "main.js.map": "/static/js/main.6f7219b5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.83c3e0c4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.83c3e0c4.js.map",
+    "static/js/2.180d86fb.chunk.js": "/static/js/2.180d86fb.chunk.js",
+    "static/js/2.180d86fb.chunk.js.map": "/static/js/2.180d86fb.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.6a5c97ac3c3bd7b7d9c14cb915886215.js": "/precache-manifest.6a5c97ac3c3bd7b7d9c14cb915886215.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b0d30001.chunk.css.map": "/static/css/main.b0d30001.chunk.css.map",
+    "static/js/2.180d86fb.chunk.js.LICENSE.txt": "/static/js/2.180d86fb.chunk.js.LICENSE.txt",
+    "static/media/intro.style.scss": "/static/media/insigne - LeHavreRough-Primary.4012df89.otf",
+    "static/media/main.styles.scss": "/static/media/doodle.2279f1d2.svg",
+    "static/media/footer.styles.scss": "/static/media/footer.2c1a5201.svg",
+    "static/media/logo.e41cf6e0.svg": "/static/media/logo.e41cf6e0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83c3e0c4.js",
+    "static/js/2.180d86fb.chunk.js",
+    "static/css/main.b0d30001.chunk.css",
+    "static/js/main.6f7219b5.chunk.js"
+  ]
+}
