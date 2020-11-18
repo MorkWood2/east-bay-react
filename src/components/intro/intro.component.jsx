@@ -50,7 +50,8 @@ const Intro = () => {
           >
             Hacktoberfest
           </a>{' '}
-          around the corner, end the year right by contributing to open source!{' '}
+          all wrapped up, there is still plenty opportunities contributing to
+          open source!{' '}
           <span role='img' aria-label='ghost'>
             👻
           </span>{' '}
@@ -63,14 +64,7 @@ const Intro = () => {
           </span>{' '}
           Please join us in the spirit of Hacktoberfest to better the world by
           contributing to meaningful projects. First-time contributors welcome,
-          skilled programmers encouraged.{' '}
-          <a
-            className='hacktoberfest'
-            href='https://github.com/topics/hacktoberfest'
-          >
-            Here
-          </a>{' '}
-          is a list of Hacktoberfest projects on Github. Please checkout{' '}
+          skilled programmers encouraged. Please checkout{' '}
           <a className='hacktoberfest' href='https://openoakland.org/'>
             OpenOakland
           </a>
